@@ -1,0 +1,189 @@
+{
+    "subtasksid": "1608103350",
+    "fileid": "13489730312393240577",
+    "annotationinfo": {
+        "shapes": [
+            {
+                "tag": {
+                    "单选下拉框": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "radio": {
+                        "LabelValueName": "上",
+                        "LabelValueId": "1232",
+                        "label_value_id": "1232",
+                        "label_value_name": "上"
+                    },
+                    "多选下拉": [],
+                    "输入": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "目标跟踪": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "平铺": [
+                        {
+                            "LabelValueName": "大腿",
+                            "LabelValueId": "125442",
+                            "label_value_id": "125442",
+                            "label_value_name": "大腿"
+                        }
+                    ]
+                },
+                "extra": {
+                    "frame_id": "Rect-240577_1",
+                    "frame_color": 0
+                },
+                "frame_type": "rect",
+                "pts": [
+                    {
+                        "x": 1057.5491514675577,
+                        "y": 546.7724605339283
+                    },
+                    {
+                        "x": 1518.1123952990092,
+                        "y": 546.7724605339283
+                    },
+                    {
+                        "x": 1057.5491514675577,
+                        "y": 1359.64672011461
+                    },
+                    {
+                        "x": 1518.1123952990092,
+                        "y": 1359.64672011461
+                    }
+                ]
+            },
+            {
+                "tag": {
+                    "单选下拉框": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "radio": {
+                        "LabelValueName": "上",
+                        "LabelValueId": "1232",
+                        "label_value_id": "1232",
+                        "label_value_name": "上"
+                    },
+                    "多选下拉": [],
+                    "输入": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "目标跟踪": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "平铺": [
+                        {
+                            "LabelValueName": "大腿",
+                            "LabelValueId": "125442",
+                            "label_value_id": "125442",
+                            "label_value_name": "大腿"
+                        }
+                    ]
+                },
+                "extra": {
+                    "frame_id": "Rect-240577_2",
+                    "frame_color": 0
+                },
+                "frame_type": "rect",
+                "pts": [
+                    {
+                        "x": 315.60367347461136,
+                        "y": 762.1676722594152
+                    },
+                    {
+                        "x": 704.1871321276429,
+                        "y": 762.1676722594152
+                    },
+                    {
+                        "x": 315.60367347461136,
+                        "y": 1536.3812528124454
+                    },
+                    {
+                        "x": 704.1871321276429,
+                        "y": 1536.3812528124454
+                    }
+                ]
+            },
+            {
+                "tag": {
+                    "单选下拉框": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "radio": {
+                        "LabelValueName": "上",
+                        "LabelValueId": "1232",
+                        "label_value_id": "1232",
+                        "label_value_name": "上"
+                    },
+                    "多选下拉": [],
+                    "输入": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "目标跟踪": {
+                        "LabelValueName": "",
+                        "LabelValueId": "",
+                        "label_value_id": "",
+                        "label_value_name": ""
+                    },
+                    "平铺": [
+                        {
+                            "LabelValueName": "大腿",
+                            "LabelValueId": "125442",
+                            "label_value_id": "125442",
+                            "label_value_name": "大腿"
+                        }
+                    ]
+                },
+                "extra": {
+                    "frame_id": "Rect-240577_3",
+                    "frame_color": 0
+                },
+                "frame_type": "rect",
+                "pts": [
+                    {
+                        "x": 1024.3277121544402,
+                        "y": 1673.4551064826292
+                    },
+                    {
+                        "x": 1678.682685312408,
+                        "y": 1673.4551064826292
+                    },
+                    {
+                        "x": 1024.3277121544402,
+                        "y": 1851.1896391804648
+                    },
+                    {
+                        "x": 1678.682685312408,
+                        "y": 1851.1896391804648
+                    }
+                ]
+            }
+        ],
+        "annotated": true
+    }
+}

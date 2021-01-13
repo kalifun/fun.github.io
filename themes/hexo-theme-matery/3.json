@@ -1,0 +1,28 @@
+{
+    "subtasksid": "1609913150",
+    "fileid": "13504318025201147905",
+    "annotationinfo": {
+        "shapes": [{
+            "frame_type": "POLYGON",
+            "pts": [{
+                "x": 10,
+                "y": 10
+            }, {
+                "x": 10,
+                "y": 20
+            }, {
+                "x": 20,
+                "y": 20
+            }, {
+                "x": 20,
+                "y": 10
+            }],
+            "tag": ["左拐", "直行"],
+            "extra": {
+                "frame_color": 0,
+                "frame_id": ""
+            }
+        }],
+        "annotated": true
+    }
+}

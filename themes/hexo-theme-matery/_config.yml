@@ -22,6 +22,9 @@ menu:
   Friends:
     url: /friends
     icon: fas fa-address-book
+  Resume:
+    url: /resume
+    icon: fas fa-address-card
 
 # Website start time.
 # 站点运行开始时间.

@@ -1,6 +1,6 @@
 ---
 title : Go-Server如何优雅的启动（热重启）
-date: 2020-11-28 18:00:12
+date: 2020-12-28 18:00:12
 categories: Golang
 tags :
   - golang
@@ -71,7 +71,7 @@ func ListeningSignals() {
 
 ### 3.2 服务实现
 
-```golang
+```go
 package main
 
 import (
